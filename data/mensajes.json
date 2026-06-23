@@ -23,12 +23,12 @@
     },
     {
       "id": 3,
-      "titulo": "Avisos comunitarios claros",
-      "mensaje": "Los avisos deben indicar propósito, fecha, fuente y acción esperada para evitar confusión.",
+      "titulo": "Avisos comunitarios",
+      "mensaje": "Los avisos deben indicar propósito, fecha, fuente y acción esperada para evitar que la informacion sea malinterpretada.",
       "categoria": "convivencia-digital",
       "audiencia": "líderes comunitarios",
       "tono": "informativo",
-      "llamadoAccion": "Publica avisos con información completa.",
+      "llamadoAccion": "Publica avisos con información completa y veridica.",
       "fuente": "Protocolo editorial del curso",
       "revisionEditorial": "aprobada"
     }
