@@ -1,8 +1,8 @@
 Mapa del flujo Frontend-Backend – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Andres Villanueva
+Fecha: 22/06/2026
+Nombre de la rama: andres_villanueva
 
 Completa el flujo con tus palabras.
 
@@ -11,57 +11,74 @@ Completa el flujo con tus palabras.
 ¿Qué parte del proyecto corresponde al frontend?
 
 Respuesta:
+El archivo HTML y el archivo css
 
 2. Backend
 
 ¿Qué parte del proyecto corresponde al backend?
 
 Respuesta:
+en esta seccion se encrentran los archivos de data, los archivos .js entre otros que no pueden ver los usuarios
 
 3. API propia
 
 ¿Qué rutas expone la API propia del proyecto?
 
 Respuesta:
+GET  /api/mensajes
+GET  /api/calendario
+GET  /api/resumen
+POST /api/login
+GET  /api/revision-editorial
 
 4. Datos
 
 ¿Qué archivos JSON usa el backend para responder?
 
 Respuesta:
+los archivos de data
 
 5. Consulta desde frontend
 
 ¿Qué función de JavaScript se usa para consultar la API?
 
 Respuesta:
+fetch
 
 6. Espera de respuesta
 
 ¿Qué palabras se usan para esperar la respuesta del servidor?
 
 Respuesta:
+async y await
 
 7. Conversión de respuesta
 
 ¿Qué hace respuesta.json()?
 
 Respuesta:
+Convierte la respuesta recibida del servidor en datos JSON que JavaScript puede utilizar para mostrarlos en la página.
 
 8. Render dinámico
 
 ¿Qué significa mostrar datos dinámicamente en el tablero?
 
 Respuesta:
+ignifica que la información del tablero se carga automáticamente desde la API y se muestra 
+en la página sin tener que escribirla manualmente.
 
 9. Prueba
 
 ¿Cómo verificaste que la información del tablero coincide con la API?
 
 Respuesta:
+Comparando los datos mostrados en el tablero con los datos enviados por la API, revisando 
+que la información fuera igual y se cargara correctamente.
 
 10. Propósito comunitario
 
 ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
 
 Respuesta:
+Permite que los cambios realizados en la información del servidor se reflejen en el tablero, 
+manteniendo avisos y datos comunitarios actualizados, organizados y accesibles para los usuarios.

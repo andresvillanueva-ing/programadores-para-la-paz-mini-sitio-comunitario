@@ -1,51 +1,62 @@
 Revisión editorial de mensajes dinámicos – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Andres Villanueva
+Fecha: 22/06/2026
+Nombre de la rama: andres_villanueva
 
 Selecciona un mensaje que aparezca en el tablero y responde.
 
 1. Título del mensaje seleccionado:
 
-Respuesta:
+Respuesta: 
+Participa con respeto
 
 2. ¿El mensaje se cargó dinámicamente desde la API?
 
-Respuesta:
+Respuesta: 
+Si 
 
 3. ¿El mensaje tiene propósito comunitario?
 
 Respuesta:
+Si
 
 4. ¿El mensaje tiene audiencia clara?
 
 Respuesta:
+Si 
 
 5. ¿El tono es adecuado?
 
 Respuesta:
+Si 
 
 6. ¿El llamado a la acción es comprensible?
 
 Respuesta:
+Si 
 
 7. ¿El mensaje tiene fuente o criterio de verificación?
 
 Respuesta:
+Si
 
 8. ¿Mantiene consistencia comunicativa con los demás mensajes?
 
 Respuesta:
+Si 
 
 9. ¿Requiere moderación editorial básica antes de publicarse?
 
 Respuesta:
+Si 
 
 10. ¿Usa lenguaje responsable y no estigmatizante?
 
 Respuesta:
+Si 
 
 11. Escribe una mejora editorial para el mensaje:
 
 Respuesta:
+Antes de reenviar información, revisa la fuente, confirma la fecha y evita mensajes alarmistas, toda informacion debe ser verificada por ti primero se el observador que ayuda a los demas a informarce correctamente.
