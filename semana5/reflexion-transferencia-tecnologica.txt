@@ -25,3 +25,15 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - cultura de paz
 
 Respuesta:
+
+Documentar un proyecto comunitario ayuda a la transparencia, la continuidad y 
+la confianza comunitaria porque permite que cualquier persona entienda cómo 
+funciona el sistema, qué se ha hecho y cómo evoluciona. La documentación como 
+transparencia es clave, ya que explica de forma clara las decisiones, 
+procesos y cambios del proyecto, facilitando la claridad operativa.
+
+Además, herramientas como el README permiten que nuevos integrantes 
+comprendan rápidamente el proyecto y puedan continuar su desarrollo, 
+apoyando la transferencia tecnológica. La trazabilidad en Git mediante 
+commits claros ayuda a seguir el historial de cambios y saber quién hizo 
+qué y cuándo, lo que mejora la organización y la responsabilidad del equipo.

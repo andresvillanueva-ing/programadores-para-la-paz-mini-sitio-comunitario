@@ -1,8 +1,8 @@
 Procedimiento de ejecución del proyecto – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Andres Villanueva
+Fecha: 22/06/2026
+Nombre de la rama: andres_villanueva
 
 Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 
@@ -11,66 +11,66 @@ Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
 ¿Qué debe tener instalado la persona?
 Ejemplos: Git, Node.js, navegador, editor de código.
 
-Respuesta:
+Respuesta: Git, Node.js, navegador, editor de código
 
 2. Clonar repositorio
 
-Comando:
+Comando: git clone https://github.com/andresvillanueva-ing/programadores-para-la-paz-mini-sitio-comunitario.git
 
-Respuesta:
+Respuesta:  se clona el repositorio
 
 3. Entrar a la carpeta del proyecto
 
-Comando:
+Comando: cd programadores-para-la-paz-mini-sitio-comunitario
 
-Respuesta:
+Respuesta: se abre la carpeta
 
 4. Crear o cambiar a rama personal
 
-Comando:
+Comando: git checkout -b 
 
-Respuesta:
+Respuesta: se crea una rama del proyecto 
 
 5. Instalar dependencias
 
-Comando:
+Comando: npm install
 
-Respuesta:
+Respuesta: se inicia la instalacion de las dependencias 
 
 6. Ejecutar el proyecto
 
-Comando:
+Comando: npm run sitio
 
-Respuesta:
+Respuesta: inicia el proyecto 
 
 7. Abrir en navegador
 
-Dirección:
+Dirección: http://localhost:3000
 
-Respuesta:
+Respuesta: abre la pagina del proyecto
 
 8. Probar rutas de la API
 
-Escribe las rutas que se deben probar:
+Escribe las rutas que se deben probar: http://localhost:3000/api/mensajes
 
-Respuesta:
+Respuesta: muestra los mensajes guardados en el proyecto
 
 9. Probar login pedagógico
 
-Usuario de demostración:
+Usuario de demostración: docente
 
-Clave de demostración:
+Clave de demostración: demo
 
-Resultado esperado:
+Resultado esperado: Login pedagógico correcto. Ya puedes probar la ruta protegida.
 
 10. Verificación final
 
 ¿Cómo sabe la persona que el proyecto está funcionando?
 
-Respuesta:
+Respuesta: puedes ingresar a la pagina 
 
 11. Nota de seguridad
 
 ¿Qué información NO debe publicarse?
 
-Respuesta:
+Respuesta: informacion personal 

@@ -1,8 +1,8 @@
 Registro de uso verificable de IA – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Andres Villanueva
+Fecha: 22/06/2026
+Nombre de la rama: andres_villanueva
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -19,31 +19,39 @@ No debes compartir con IA:
 Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
 
 Respuesta:
+Organizar pasos de ejecucion y revisar redaccion. 
 
 2. Escribe la pregunta que hiciste a la IA:
 
 Respuesta:
+explicame como funciona el codigo fetch y que hace
 
 3. Resume la respuesta recibida:
 
 Respuesta:
+La IA me dio una explicacion de como funciona ademas de mostrarme como se usa y que hace.
 
 4. ¿Qué parte de la respuesta aplicaste?
 
 Respuesta:
+comprove que lo que me habia dicho la IA era lo mismo que estaba en el codigo.
 
 5. ¿Qué parte decidiste no aplicar?
 
 Respuesta:
+me dio lo mismo que estaba en el documento 
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
 Respuesta:
+hice una comparacion de lo que me dio y lo que ya tenia. 
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
 Respuesta:
+No 
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
 Respuesta:
+que debemos tener cuidado al momento de usarla y verificar que la informacion es correcta.
