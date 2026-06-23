@@ -1,8 +1,8 @@
 Reflexión de cierre de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Andres Villanueva
+Fecha: 23/06/2026
+Nombre de la rama: andres_villanueva
 
 Escribe una reflexión de 10 a 12 líneas respondiendo:
 
@@ -43,3 +43,14 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - cultura de paz
 
 Respuesta:
+Desde las primeras clases hasta este proyecto único en GitHub, mi forma de 
+trabajar cambió porque pasé de hacer ejercicios individuales a desarrollar 
+un proyecto organizado usando un repositorio y control de versiones. Aprendí 
+a trabajar con una rama main y una rama personal, realizando cambios mediante 
+commit, push, git pull y procesos como git merge o fast-forward para mantener 
+el código actualizado.
+
+También aprendí a integrar diferentes tecnologías: crear la estructura con HTML 
+y CSS, agregar lógica con JavaScript y construir un servidor con Node.js y Express. 
+Comprendí cómo funciona una API, cómo organizar datos con JSON y cómo usar fetch, 
+async y await para comunicar el frontend con el backend
