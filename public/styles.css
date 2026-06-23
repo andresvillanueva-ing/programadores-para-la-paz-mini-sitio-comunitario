@@ -11,3 +11,16 @@ input {
     font-weight: bold;
   }
   
+.tablero {
+  display: grid;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.tarjeta-mensaje {
+  background: #fafafa;
+  border: 1px solid #dddddd;
+  border-left: 6px solid #555555;
+  padding: 16px;
+  border-radius: 8px;
+}
